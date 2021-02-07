@@ -1,0 +1,3 @@
+C:/Users/gabri/Desktop/Code/C++/network-monitor/build/CMakeFiles/network-monitor.dir
+C:/Users/gabri/Desktop/Code/C++/network-monitor/build/CMakeFiles/edit_cache.dir
+C:/Users/gabri/Desktop/Code/C++/network-monitor/build/CMakeFiles/rebuild_cache.dir

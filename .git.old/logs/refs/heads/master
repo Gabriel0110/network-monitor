@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 6c111ae805d839be550b5c92d1214786341ccc7a Gabriel Tomberlin <gabrieltomberlin14@gmail.com> 1612656888 -0600	commit (initial): Initialize repository
+6c111ae805d839be550b5c92d1214786341ccc7a ef9fde2865cfcfbd0b026197632fc8ecd0681781 Gabriel Tomberlin <gabrieltomberlin14@gmail.com> 1612657822 -0600	commit: Add trivial code and build system
+ef9fde2865cfcfbd0b026197632fc8ecd0681781 908998504cae1b40573ec17e1c24eee5266fbc46 Gabriel Tomberlin <gabrieltomberlin14@gmail.com> 1612658271 -0600	commit: Add conan to the project

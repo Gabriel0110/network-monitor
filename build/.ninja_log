@@ -1,0 +1,5 @@
+# ninja log v5
+1	498	634360566	CMakeFiles/network-monitor.dir/src/main.cpp.obj	9d295bc38d0c6477
+498	899	634360566	network-monitor.exe	8e5900db3c231a14
+1	511	6343614345529177	CMakeFiles/network-monitor.dir/src/main.cpp.obj	9d295bc38d0c6477
+511	882	6343614348891480	network-monitor.exe	d23c07590d4fdb3f
