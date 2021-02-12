@@ -46,7 +46,7 @@ build cmake_object_order_depends_target_network-monitor: phony || CMakeFiles\net
 build CMakeFiles\network-monitor.dir\src\main.cpp.obj: CXX_COMPILER__network-monitor_Release ..\src\main.cpp || cmake_object_order_depends_target_network-monitor
   DEFINES = -DBOOST_ALL_NO_LIB
   FLAGS = /DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -MD
-  INCLUDES = -IC:\.conan\b9700b\1\include -IC:\Users\gabri\.conan\data\bzip2\1.0.8\_\_\package\d16a91eadaaf5829b928b12d2f836ff7680d3df5\include -IC:\Users\gabri\.conan\data\zlib\1.2.11\_\_\package\3fb49604f9c2f729b85ba3115852006824e72cab\include -IC:\Users\gabri\.conan\data\libiconv\1.16\_\_\package\3fb49604f9c2f729b85ba3115852006824e72cab\include
+  INCLUDES = -I..\src -IC:\.conan\b9700b\1\include -IC:\Users\gabri\.conan\data\bzip2\1.0.8\_\_\package\d16a91eadaaf5829b928b12d2f836ff7680d3df5\include -IC:\Users\gabri\.conan\data\zlib\1.2.11\_\_\package\3fb49604f9c2f729b85ba3115852006824e72cab\include -IC:\Users\gabri\.conan\data\libiconv\1.16\_\_\package\3fb49604f9c2f729b85ba3115852006824e72cab\include
   OBJECT_DIR = CMakeFiles\network-monitor.dir
   OBJECT_FILE_DIR = CMakeFiles\network-monitor.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\network-monitor.dir\
